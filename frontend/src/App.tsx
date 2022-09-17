@@ -54,20 +54,7 @@ function App() {
       <h1 className='text-6xl text-white font-black mt-20'>
         Seu <span className='text-transparent bg-nlw-gradient bg-clip-text'>duo</span> está aqui.
       </h1>
-
-      {/* <div className='grid grid-cols-6 gap-6 mt-16'>
-        {games.map((game) => {
-          return (
-            <GameBanner
-              key={game.id}
-              title={game.title}
-              bannerUrl={game.bannerUrl}
-              adsCount={game._count.ads}
-            />
-          )
-        })}
-      </div> */}
-
+      
       <div ref={sliderRef} className='relative mt-16 rounded-lg keen-slider'>
         <button
           disabled={currentSlide === 0}
