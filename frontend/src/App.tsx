@@ -8,7 +8,6 @@ import { CaretLeft, CaretRight } from 'phosphor-react';
 import "keen-slider/keen-slider.min.css";
 import './styles/main.css';
 
-import * as Dialog from '@radix-ui/react-dialog';
 import logo from './assets/logo-nlw-esports.svg';
 import axios from 'axios';
 
@@ -54,7 +53,7 @@ function App() {
       <h1 className='text-6xl text-white font-black mt-20'>
         Seu <span className='text-transparent bg-nlw-gradient bg-clip-text'>duo</span> está aqui.
       </h1>
-      
+
       <div ref={sliderRef} className='relative mt-16 rounded-lg keen-slider'>
         <button
           disabled={currentSlide === 0}
@@ -82,13 +81,9 @@ function App() {
         >
           <CaretRight className='w-8 h-8' />
         </button>
-
       </div>
 
-      <Dialog.Root>
-        <CreateAdBanner />
-        <CreateAdModal />
-      </Dialog.Root>
+      <CreateAdModal />
     </div>
   )
 }
