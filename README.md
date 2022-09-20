@@ -22,6 +22,7 @@ NLW-eSports is a project that helps people find someone to play their favorite g
 - [NodeJS](https://nodejs.org/)
 - [Prisma](https://www.prisma.io/)
 - [PostgreSQL](https://www.postgresql.org/)
+- [Docker](https://www.docker.com/)
 - [Tailwindcss](https://tailwindcss.com/)
 
 ## How to run
