@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#about-nlw-eSports">About NLW-eSports</a>
+<a href="#about-nlw-esports">About NLW eSports</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#technologies">Technologies</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,9 +12,17 @@
 
 ![nlw](https://user-images.githubusercontent.com/72872854/191334230-85eb3cf3-221d-4c82-8f46-a0a60fba16e7.png)
 
-## About NLW-eSports
+## About NLW eSports
 
 NLW-eSports is a project that helps people find someone to play their favorite game.
+
+## Technologies
+
+- [ReactJS](https://reactjs.org/)
+- [NodeJS](https://nodejs.org/)
+- [Prisma](https://www.prisma.io/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Tailwindcss](https://tailwindcss.com/)
 
 ## How to run
 
@@ -69,14 +77,6 @@ npx prisma studio
 Your page is available at the URL: [http://localhost:8000/](http://localhost:8000/)\
 Your server is available at the URL: [http://localhost:3000/](http://localhost:3000/)\
 Prism is available at the URL: [http://localhost:5555/](http://localhost:5555/)
-
-## Technologies
-
-- [ReactJS](https://reactjs.org/)
-- [NodeJS](https://nodejs.org/)
-- [Prisma](https://www.prisma.io/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Tailwindcss](https://tailwindcss.com/)
 
 ## Status
 
