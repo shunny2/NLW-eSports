@@ -5,7 +5,7 @@
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#how-to-run">How to run</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#status">Status</a>
+<a href="#project-status">Project Status</a>
 </p>
 
 </br>
@@ -79,9 +79,9 @@ Your page is available at the URL: [http://localhost:8000/](http://localhost:800
 Your server is available at the URL: [http://localhost:3000/](http://localhost:3000/)\
 Prism is available at the URL: [http://localhost:5555/](http://localhost:5555/)
 
-## Status
+## Project Status
 
-> Status: Developing.
+> Status: Stopped.
 
 <hr></hr>
 
