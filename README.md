@@ -81,7 +81,7 @@ Prism is available at the URL: [http://localhost:5555/](http://localhost:5555/)
 
 ## Project Status
 
-> Status: Stopped.
+> Status: Developing.
 
 <hr></hr>
 
