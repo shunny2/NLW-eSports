@@ -5,12 +5,20 @@
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#how-to-run">How to run</a>
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#figma">Figma</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#project-status">Project Status</a>
 </p>
 
 </br>
 
 ![nlw](https://user-images.githubusercontent.com/72872854/191334230-85eb3cf3-221d-4c82-8f46-a0a60fba16e7.png)
+
+<p align="center">
+<a href="https://img.shields.io/github/watchers/shunny2/nlw-esports?style=social"><img src="https://img.shields.io/github/watchers/shunny2/nlw-esports?style=social" alt="Watchers"/></a>
+<a href="https://img.shields.io/github/stars/shunny2/nlw-esports?style=social"><img src="https://img.shields.io/github/stars/shunny2/nlw-esports?style=social" alt="Repo Stars"/></a>
+<a href="https://img.shields.io/github/license/shunny2/nlw-esportsr"><img src="https://img.shields.io/github/license/shunny2/nlw-esports" alt="License"/></a>
+</p>
 
 ## About NLW eSports
 
@@ -29,7 +37,7 @@ NLW-eSports is a project that helps people find someone to play their favorite g
 
 First, start by cloning the repository:
 ```shell
-git clone https://github.com/shunny2/NLW-eSports
+git clone https://github.com/shunny2/nlw-esports
 ```
 
 If you use docker, run the following command in the project root directory to run the frontend container.
@@ -79,9 +87,12 @@ Your page is available at the URL: [http://localhost:8000/](http://localhost:800
 Your server is available at the URL: [http://localhost:3000/](http://localhost:3000/)\
 Prism is available at the URL: [http://localhost:5555/](http://localhost:5555/)
 
+## Figma
+See the project prototype in [figma](https://www.figma.com/file/wl7FuCQ0MmWvWEGp5wKqhk/NLW-eSports-(Community)?node-id=6%3A23).
+
 ## Project Status
 
-> Status: Developing.
+> Status: Completed.
 
 <hr></hr>
 
