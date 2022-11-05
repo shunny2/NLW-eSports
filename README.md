@@ -22,7 +22,7 @@
 
 ## About NLW eSports
 
-NLW-eSports is a project that helps people find someone to play their favorite game. The project was created at the Next Level Week event by Rocketseat.
+NLW-eSports is a project that helps people find someone to play their favorite game. The project was created at the Next Level Week event by [Rocketseat](https://www.rocketseat.com.br/).
 
 ## Technologies
 
