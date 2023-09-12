@@ -1,13 +1,15 @@
 <p align="center">
-<a href="#about-nlw-esports">About NLW eSports</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#technologies">Technologies</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#how-to-run">How to run</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#figma">Figma</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#project-status">Project Status</a>
+ <a href="#about-application">About Application</a>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#technologies">Technologies</a>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#how-to-run">How to run</a>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#figma">Figma</a>
+ &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#project-status">Project Status</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#license">License</a>
 </p>
 
 </br>
@@ -15,23 +17,64 @@
 ![nlw](https://user-images.githubusercontent.com/72872854/191334230-85eb3cf3-221d-4c82-8f46-a0a60fba16e7.png)
 
 <p align="center">
-<a href="https://img.shields.io/github/watchers/shunny2/nlw-esports?style=social"><img src="https://img.shields.io/github/watchers/shunny2/nlw-esports?style=social" alt="Watchers"/></a>
-<a href="https://img.shields.io/github/stars/shunny2/nlw-esports?style=social"><img src="https://img.shields.io/github/stars/shunny2/nlw-esports?style=social" alt="Repo Stars"/></a>
-<a href="https://img.shields.io/github/license/shunny2/nlw-esportsr"><img src="https://img.shields.io/github/license/shunny2/nlw-esports" alt="License"/></a>
+ <a href="https://img.shields.io/github/stars/shunny2/nlw-esports?style=social"><img src="https://img.shields.io/github/stars/shunny2/nlw-esports?style=social" alt="Repo Stars"/></a>
+ <a href="https://img.shields.io/github/forks/shunny2/nlw-esports?style=social"><img src="https://img.shields.io/github/forks/shunny2/nlw-esports?style=social" alt="Repo Forks"/></a>
+ <a href="https://img.shields.io/github/license/shunny2/nlw-esports?style=social"><img src="https://img.shields.io/github/license/shunny2/nlw-esports?style=social" alt="License"/></a>
 </p>
 
-## About NLW eSports
+## About Application
 
-NLW-eSports is a project that helps people find someone to play their favorite game. The project was created at the Next Level Week event by [Rocketseat](https://www.rocketseat.com.br/).
+<b>NLW-eSports</b> is a project that helps people find someone to play their favorite game. The project was created at the Next Level Week event by [Rocketseat](https://www.rocketseat.com.br/).
 
 ## Technologies
 
-- [ReactJS](https://reactjs.org/)
-- [NodeJS](https://nodejs.org/)
-- [Prisma](https://www.prisma.io/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Docker](https://www.docker.com/)
-- [Tailwindcss](https://tailwindcss.com/)
+### Frontend
+
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <td>
+      <a href="https://reactjs.org/" title="React"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo image." /></a>
+    </td>
+    <td>
+      <a href="https://tailwindcss.com/" title="Tailwindcss"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" alt="Tailwindcss logo image." /></a>
+    </td>
+  </tbody>
+</table>
+
+### Backend
+
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <td>
+      <a href="https://nodejs.org/en/" title="NodeJS"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js logo image." /></a>
+    </td>
+    <td>
+      <a href="https://expressjs.com/" title="Express"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express javascript logo image." /></a>
+    </td>
+    <td>
+      <a href="https://www.prisma.io/" title="Prisma ORM"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma ORM logo image." /></a>
+    </td>
+  </tbody>
+</table>
+
+### Infrastructure and Database
+
+<table>
+  <thead>
+  </thead>
+  <tbody>
+    <td>
+      <a href="https://www.docker.com/" title="Docker"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="Docker logo image." /></a>
+    </td>
+    <td>
+      <a href="https://www.postgresql.org/" title="PostgreSQL"><img width="128" height="128" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL logo image." /></a>
+    </td>
+  </tbody>
+</table>
 
 ## How to run
 
@@ -83,6 +126,8 @@ And finally, start prism studio:
 npx prisma studio
 ```
 
+### Routes
+
 Your page is available at the URL: [http://localhost:8000/](http://localhost:8000/)\
 Your server is available at the URL: [http://localhost:3000/](http://localhost:3000/)\
 Prism is available at the URL: [http://localhost:5555/](http://localhost:5555/)
@@ -93,6 +138,10 @@ See the project prototype in [figma](https://www.figma.com/file/wl7FuCQ0MmWvWEGp
 ## Project Status
 
 > Status: Completed.
+
+## License
+
+This project is under an [MIT](https://opensource.org/licenses/MIT) license.
 
 <hr></hr>
 
